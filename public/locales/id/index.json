@@ -1,0 +1,21 @@
+{
+  "welcome": "Selamat Datang",
+  "change-locale": "Ganti bahasa",
+  "poweredb-by": "Dipersembahkan oleh",
+  "documentation": {
+    "title": "Dokumentasi",
+    "message": "Temukan informasi mendalam tentang fitur dan API Next.js."
+  },
+  "learn": {
+    "title": "Belajar",
+    "message": "Pelajari tentang Next.js dalam kursus interaktif dengan kuis!"
+  },
+  "examples": {
+    "title": "Contoh",
+    "message": "Temukan dan terapkan contoh boilerplate proyek Next.js."
+  },
+  "deploy": {
+    "title": "Menyebarkan",
+    "message": "Segera gunakan situs Next.js Anda ke URL publik dengan Vercel."
+  }
+}
