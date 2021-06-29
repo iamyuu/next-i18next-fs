@@ -12,5 +12,4 @@ module.exports = {
   defaultNS: [],
   localePath,
   debug: true,
-  returnObjects: true,
 }

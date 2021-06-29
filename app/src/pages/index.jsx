@@ -65,8 +65,8 @@ export default function Home() {
           <div className={styles.grid}>
             {grid.map(({transKey, link}) => (
               <a key={transKey} href={link} className={styles.card}>
-                <h2>{t(transKey)['title']} &rarr;</h2>
-                <p>{t(transKey)['message']}</p>
+                <h2>{t(`${transKey}.title`)} &rarr;</h2>
+                <p>{t(`${transKey}.message`)}</p>
               </a>
             ))}
           </div>
